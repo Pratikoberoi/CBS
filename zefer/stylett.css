@@ -1,0 +1,53 @@
+#content input.text {
+	width: 160px;
+	background: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #AEC38B;
+	border-radius:10px;
+	padding-left: 5px;
+}
+
+#content input.button {
+	border: none;
+	border-radius:10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#content textarea {
+	width: 260px;
+	background: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #AEC38B;
+	border-radius:10px;
+	resize: none;
+	padding-left: 5px;
+}
+#cname
+{
+font-family: "Courier New", Courier, monospace;
+}
+#lbg
+{
+background:url(images/lbg.jpg) no-repeat ;
+height:250px;
+padding-top:5px;
+border-radius:10px;
+}
+#menu
+{
+background:grey;
+border-radius:10px;
+padding: 5;
+color :white;
+}
+#menu a
+{
+color :white;
+}
+#menu a:hover
+{
+color :black;
+text-transform: uppercase;
+text-decoration: overline;
+text-decoration: underline;
+}
